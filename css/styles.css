@@ -1,8 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
 #choropleth_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+  top: 100px;
+  bottom: 100px; 
+  left: 100px;
+  right: 100px;
+  /*height: 1000px;
+  width: 800px;*/
+  position: relative; /* Ensure the map respects the top, bottom, left, and right properties */
 }
