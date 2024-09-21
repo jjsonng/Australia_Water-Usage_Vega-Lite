@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 900,
+  "height": 600,
+  "title": "Physical Water Supply and Use by State/Territory in Australia (2021-22)",
+  "projection": {
+    "type": "equirectangular",
+    "center": [133, -28],
+    "scale": 900
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjsonng/Australia_Water-Usage_Vega-Lite/main/js/ne_1.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_10m_admin_1_states_provinces"
+        }
+      },
+      "transform": [
+        {
+          "lookup": "properties.name",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/jjsonng/Australia_Water-Usage_Vega-Lite/main/data/water_account.csv"
+            },
+            "key": "Geography Description",
+            "fields": ["2021-22"]
+          }
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "color": {
+          "field": "2021-22",
+          "type": "quantitative",
+          "title": "Water Usage (ML)",
+          "scale": {
+            "type": "threshold",
+            "domain": [500000000, 2500000000, 5000000000, 10000000000, 20000000000],
+            "range": ["#f2e7c7", "#e6b67d", "#cc7640", "#bf4030", "#a63630", "#6e1414"]
+          },
+          "legend": {
+            "title": "Water Usage (ML)",
+            "orient": "bottom-left",
+            "direction": "vertical",
+            "offset": 18,
+            "labelExpr": "datum.value < 500000000 ? '0' : datum.value == 500000000 ? '500.000.000' : datum.value == 2500000000 ? '2.500.000.000' : datum.value == 5000000000 ? '5.000.000.000' : datum.value == 10000000000 ? '10.000.000.000' : datum.value == 20000000000 ? '20.000.000.000' : datum.value > 20000000000 ? 'Above 20B' : ''"
+          }
+        },
+        "tooltip": [
+          {"field": "properties.name", "type": "nominal", "title": "State/Territory"},
+          {"field": "2021-22", "type": "quantitative", "title": "Water Usage (ML)", "format": ",.0f"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jjsonng/Australia_Water-Usage_Vega-Lite/main/js/ne_1.json",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_10m_admin_1_states_provinces"
+        }
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "fontSize": 0,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "longitude": {"field": "properties.longitude", "type": "quantitative"},
+        "latitude": {"field": "properties.latitude", "type": "quantitative"},
+        "text": {"field": "properties.postal"},
+        "color": {"value": "black"}
+      }
+    }
+  ],
+  "config": {
+    "legend": {
+      "padding": 10,
+      "cornerRadius": 5,
+      "fillColor": "#ffffff",
+      "strokeColor": "#ccc"
+    }
+  }
+}
