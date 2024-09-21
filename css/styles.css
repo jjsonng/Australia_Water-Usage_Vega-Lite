@@ -15,7 +15,7 @@ body {
 }
 
 #choropleth_map {
-  width: 600px; /* Set a fixed width */
-  height: 400px; /* Set a fixed height */
+  width: 800px; /* Set a fixed width */
+  height: 600px; /* Set a fixed height */
   position: relative; /* Ensure the map respects the top, bottom, left, and right properties */
 }
