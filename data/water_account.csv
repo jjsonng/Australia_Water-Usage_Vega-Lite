@@ -1,0 +1,511 @@
+Geography Description,Geography Code,Industry,ANZSIC Division Code,Supply/Use,Product,Unit,2021-22
+New South Wales,1,Environment,Environment,Supply,Self-extracted,ML,1624221664
+New South Wales,1,Total,Total,Supply,Self-extracted,ML,1624221664
+New South Wales,1,Electricity and gas supply,D,Supply,Distributed,ML,8554267
+New South Wales,1,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,489546970
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,489632513
+New South Wales,1,Total industry,Total industry,Supply,Distributed,ML,489964407
+New South Wales,1,Total,Total,Supply,Distributed,ML,489964407
+New South Wales,1,Total,Total,Supply,Wastewater (a),ML,96928700
+New South Wales,1,Electricity and gas supply,D,Supply,Reuse,ML,477483
+New South Wales,1,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,6022700
+New South Wales,1,"Waste collection, treatment and disposal services",D,Supply,Reuse,ML,12658
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,6027601
+New South Wales,1,Total industry,Total industry,Supply,Reuse,ML,6466899
+New South Wales,1,Total,Total,Supply,Reuse,ML,6466899
+New South Wales,1,Electricity and gas supply,D,Supply,Return flows (b),ML,1045547421
+New South Wales,1,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,87330800
+New South Wales,1,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,279824
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,1132881019
+New South Wales,1,Total industry,Total industry,Supply,Return flows (b),ML,1139098980
+New South Wales,1,Total,Total,Supply,Return flows (b),ML,1139098980
+New South Wales,1,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,28898773
+New South Wales,1,Mining,B,Use,Surface water,ML,7921674
+New South Wales,1,Manufacturing,C,Use,Surface water,ML,3464209
+New South Wales,1,Electricity and gas supply,D,Use,Surface water,ML,1045543700
+New South Wales,1,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,482208870
+New South Wales,1,"Waste collection, treatment and disposal services",D,Use,Surface water,ML,373859
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,1527756309
+New South Wales,1,Other industries,E -S,Use,Surface water,ML,5378052
+New South Wales,1,Total industry,Total industry,Use,Surface water,ML,1573419016
+New South Wales,1,Total,Total,Use,Surface water,ML,1573419016
+New South Wales,1,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,36956064
+New South Wales,1,Mining,B,Use,Groundwater,ML,3812630
+New South Wales,1,Manufacturing,C,Use,Groundwater,ML,1319554
+New South Wales,1,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,5107300
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,5110461
+New South Wales,1,Other industries,E -S,Use,Groundwater,ML,1373139
+New South Wales,1,Total industry,Total industry,Use,Groundwater,ML,48571848
+New South Wales,1,Total,Total,Use,Groundwater,ML,48571848
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Sea water for desalination,ML,2230800
+New South Wales,1,Total industry,Total industry,Use,Sea water for desalination,ML,2230800
+New South Wales,1,Total,Total,Use,Sea water for desalination,ML,2230800
+New South Wales,1,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,65854837
+New South Wales,1,Mining,B,Use,Self-extracted,ML,11734304
+New South Wales,1,Manufacturing,C,Use,Self-extracted,ML,4783763
+New South Wales,1,"Waste collection, treatment and disposal services",D,Use,Self-extracted,ML,660945
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,1535097570
+New South Wales,1,Other industries,E -S,Use,Self-extracted,ML,6751191
+New South Wales,1,Total industry,Total industry,Use,Self-extracted,ML,1624221664
+New South Wales,1,Total,Total,Use,Self-extracted,ML,1624221664
+New South Wales,1,"Agriculture, forestry and fishing (d)",A,Use,Distributed,ML,322748620
+New South Wales,1,Mining,B,Use,Distributed,ML,1842200
+New South Wales,1,Manufacturing,C,Use,Distributed,ML,5399600
+New South Wales,1,Electricity and gas supply,D,Use,Distributed,ML,1677500
+New South Wales,1,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,80060000
+New South Wales,1,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,251838
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,81989338
+New South Wales,1,Other industries,E -S,Use,Distributed,ML,25421653
+New South Wales,1,Total industry,Total industry,Use,Distributed,ML,437401411
+New South Wales,1,Households (e),HH,Use,Distributed,ML,52562996
+New South Wales,1,Total,Total,Use,Distributed,ML,489964407
+New South Wales,1,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,96928700
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,96928700
+New South Wales,1,Total industry,Total industry,Use,Wastewater (c),ML,96928700
+New South Wales,1,Total,Total,Use,Wastewater (c),ML,96928700
+New South Wales,1,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,1499800
+New South Wales,1,Electricity and gas supply,D,Use,Reuse,ML,846
+New South Wales,1,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,2341362
+New South Wales,1,Total industry,Total industry,Use,Reuse,ML,6191699
+New South Wales,1,Households (e),HH,Use,Reuse,ML,275200
+New South Wales,1,Total,Total,Use,Reuse,ML,6466899
+New South Wales,1,Environment,Environment,Use,Return flows (b),ML,1139098980
+New South Wales,1,Total,Total,Use,Return flows (b),ML,1139098980
+Victoria,2,Environment,Environment,Supply,Self-extracted,ML,777774905
+Victoria,2,Total,Total,Supply,Self-extracted,ML,777774905
+Victoria,2,Mining,B,Supply,Distributed,ML,817598
+Victoria,2,Manufacturing,C,Supply,Distributed,ML,2802513
+Victoria,2,Electricity and gas supply,D,Supply,Distributed,ML,452792
+Victoria,2,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,292173200
+Victoria,2,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,292625992
+Victoria,2,Total industry,Total industry,Supply,Distributed,ML,292662193
+Victoria,2,Total,Total,Supply,Distributed,ML,292662193
+Victoria,2,Total,Total,Supply,Wastewater (a),ML,54064900
+Victoria,2,Electricity and gas supply,D,Supply,Reuse,ML,2527398
+Victoria,2,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,9040600
+Victoria,2,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,9065887
+Victoria,2,Total industry,Total industry,Supply,Reuse,ML,9481571
+Victoria,2,Total,Total,Supply,Reuse,ML,9481571
+Victoria,2,Electricity and gas supply,D,Supply,Return flows (b),ML,445423503
+Victoria,2,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,44645700
+Victoria,2,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,28865
+Victoria,2,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,490069491
+Victoria,2,Total industry,Total industry,Supply,Return flows (b),ML,493485789
+Victoria,2,Total,Total,Supply,Return flows (b),ML,493485789
+Victoria,2,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,5107938
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,266294300
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,711717172
+Victoria,2,Other industries,E -S,Use,Surface water,ML,946205
+Victoria,2,Total industry,Total industry,Use,Surface water,ML,725175461
+Victoria,2,Total,Total,Use,Surface water,ML,725175461
+Victoria,2,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,20814885
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,13340700
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,15621281
+Victoria,2,Other industries,E -S,Use,Groundwater,ML,145091
+Victoria,2,Total industry,Total industry,Use,Groundwater,ML,40061244
+Victoria,2,Total,Total,Use,Groundwater,ML,40061244
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Sea water for desalination,ML,12538200
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Sea water for desalination,ML,12538200
+Victoria,2,Total industry,Total industry,Use,Sea water for desalination,ML,12538200
+Victoria,2,Total,Total,Use,Sea water for desalination,ML,12538200
+Victoria,2,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,25922823
+Victoria,2,Mining,B,Use,Self-extracted,ML,1576185
+Victoria,2,Manufacturing,C,Use,Self-extracted,ML,9307948
+Victoria,2,Electricity and gas supply,D,Use,Self-extracted,ML,447702296
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,292173200
+Victoria,2,"Waste collection, treatment and disposal services",D,Use,Self-extracted,ML,115721
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,739876653
+Victoria,2,Other industries,E -S,Use,Self-extracted,ML,1091296
+Victoria,2,Total industry,Total industry,Use,Self-extracted,ML,777774905
+Victoria,2,Total,Total,Use,Self-extracted,ML,777774905
+Victoria,2,"Agriculture, forestry and fishing (d)",A,Use,Distributed,ML,188818920
+Victoria,2,Mining,B,Use,Distributed,ML,862
+Victoria,2,Manufacturing,C,Use,Distributed,ML,7380600
+Victoria,2,Electricity and gas supply,D,Use,Distributed,ML,7048100
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,38586200
+Victoria,2,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,2777713
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,45662077
+Victoria,2,Other industries,E -S,Use,Distributed,ML,9026169
+Victoria,2,Total industry,Total industry,Use,Distributed,ML,250973966
+Victoria,2,Households (e),HH,Use,Distributed,ML,41688227
+Victoria,2,Total,Total,Use,Distributed,ML,292662193
+Victoria,2,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,54064900
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,54064900
+Victoria,2,Total industry,Total industry,Use,Wastewater (c),ML,54064900
+Victoria,2,Total,Total,Use,Wastewater (c),ML,54064900
+Victoria,2,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,2192252
+Victoria,2,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,5535415
+Victoria,2,Other industries,E -S,Use,Reuse,ML,1041904
+Victoria,2,Total industry,Total industry,Use,Reuse,ML,9182971
+Victoria,2,Households (e),HH,Use,Reuse,ML,298600
+Victoria,2,Total,Total,Use,Reuse,ML,9481571
+Victoria,2,Environment,Environment,Use,Return flows (b),ML,493485789
+Victoria,2,Total,Total,Use,Return flows (b),ML,493485789
+Queensland,3,Environment,Environment,Supply,Self-extracted,ML,433560668
+Queensland,3,Total,Total,Supply,Self-extracted,ML,433560668
+Queensland,3,Electricity and gas supply,D,Supply,Distributed,ML,343987
+Queensland,3,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,251042890
+Queensland,3,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,251386877
+Queensland,3,Total industry,Total industry,Supply,Distributed,ML,251830700
+Queensland,3,Total,Total,Supply,Distributed,ML,251830700
+Queensland,3,Total,Total,Supply,Wastewater (a),ML,47996600
+Queensland,3,Electricity and gas supply,D,Supply,Reuse,ML,1920069
+Queensland,3,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,4507200
+Queensland,3,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,4526439
+Queensland,3,Total industry,Total industry,Supply,Reuse,ML,5544457
+Queensland,3,Total,Total,Supply,Reuse,ML,5544457
+Queensland,3,Mining,B,Supply,Return flows (b),ML,6969701
+Queensland,3,Manufacturing,C,Supply,Return flows (b),ML,3568068
+Queensland,3,Electricity and gas supply,D,Supply,Return flows (b),ML,74454439
+Queensland,3,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,41921800
+Queensland,3,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,84053
+Queensland,3,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,116377079
+Queensland,3,Total industry,Total industry,Supply,Return flows (b),ML,126914849
+Queensland,3,Total,Total,Supply,Return flows (b),ML,126914849
+Queensland,3,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,44244764
+Queensland,3,Mining,B,Use,Surface water,ML,11026021
+Queensland,3,Manufacturing,C,Use,Surface water,ML,6899427
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,241050190
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,315512965
+Queensland,3,Other industries,E -S,Use,Surface water,ML,826031
+Queensland,3,Total industry,Total industry,Use,Surface water,ML,378509208
+Queensland,3,Total,Total,Use,Surface water,ML,378509208
+Queensland,3,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,34427948
+Queensland,3,Mining,B,Use,Groundwater,ML,7137944
+Queensland,3,Manufacturing,C,Use,Groundwater,ML,2599403
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,8652400
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,8922995
+Queensland,3,Other industries,E -S,Use,Groundwater,ML,582399
+Queensland,3,Total industry,Total industry,Use,Groundwater,ML,53670689
+Queensland,3,Total,Total,Use,Groundwater,ML,53670689
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Sea water for desalination,ML,1340300
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Sea water for desalination,ML,1340300
+Queensland,3,Other industries,E -S,Use,Sea water for desalination,ML,4047153
+Queensland,3,Total industry,Total industry,Use,Sea water for desalination,ML,1380772
+Queensland,3,Total,Total,Use,Sea water for desalination,ML,1380772
+Queensland,3,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,78672712
+Queensland,3,Mining,B,Use,Self-extracted,ML,18163965
+Queensland,3,Manufacturing,C,Use,Self-extracted,ML,9498829
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,251042890
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,325776260
+Queensland,3,Other industries,E -S,Use,Self-extracted,ML,1448901
+Queensland,3,Total industry,Total industry,Use,Self-extracted,ML,433560668
+Queensland,3,Total,Total,Use,Self-extracted,ML,433560668
+Queensland,3,"Agriculture, forestry and fishing (d)",A,Use,Distributed,ML,155864272
+Queensland,3,Mining,B,Use,Distributed,ML,5588000
+Queensland,3,Manufacturing,C,Use,Distributed,ML,7662700
+Queensland,3,Electricity and gas supply,D,Use,Distributed,ML,6434600
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,31879100
+Queensland,3,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,7583901
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,38389539
+Queensland,3,Other industries,E -S,Use,Distributed,ML,9675571
+Queensland,3,Total industry,Total industry,Use,Distributed,ML,217180082
+Queensland,3,Households (e),HH,Use,Distributed,ML,34650618
+Queensland,3,Total,Total,Use,Distributed,ML,251830700
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,47996600
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,47996600
+Queensland,3,Total industry,Total industry,Use,Wastewater (c),ML,47996600
+Queensland,3,Total,Total,Use,Wastewater (c),ML,47996600
+Queensland,3,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,1544800
+Queensland,3,Mining,B,Use,Reuse,ML,335
+Queensland,3,Manufacturing,C,Use,Reuse,ML,552600
+Queensland,3,Electricity and gas supply,D,Use,Reuse,ML,381900
+Queensland,3,"Water supply, sewerage and drainage services",D,Use,Reuse,ML,835400
+Queensland,3,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,1217300
+Queensland,3,Other industries,E -S,Use,Reuse,ML,2196257
+Queensland,3,Total industry,Total industry,Use,Reuse,ML,5544457
+Queensland,3,Total,Total,Use,Reuse,ML,5544457
+Queensland,3,Environment,Environment,Use,Return flows (b),ML,126914849
+Queensland,3,Total,Total,Use,Return flows (b),ML,126914849
+South Australia,4,Environment,Environment,Supply,Self-extracted,ML,97988125
+South Australia,4,Total,Total,Supply,Self-extracted,ML,97988125
+South Australia,4,Electricity and gas supply,D,Supply,Distributed,ML,240448
+South Australia,4,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,51901700
+South Australia,4,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,51904104
+South Australia,4,Total industry,Total industry,Supply,Distributed,ML,51940713
+South Australia,4,Total,Total,Supply,Distributed,ML,51940713
+South Australia,4,Total,Total,Supply,Wastewater (a),ML,12724700
+South Australia,4,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,4813200
+South Australia,4,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,4813339
+South Australia,4,Total industry,Total industry,Supply,Reuse,ML,5086158
+South Australia,4,Total,Total,Supply,Reuse,ML,5086158
+South Australia,4,Electricity and gas supply,D,Supply,Return flows (b),ML,239625
+South Australia,4,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,8266500
+South Australia,4,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,11151
+South Australia,4,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,8506237
+South Australia,4,Total industry,Total industry,Supply,Return flows (b),ML,11056026
+South Australia,4,Total,Total,Supply,Return flows (b),ML,11056026
+South Australia,4,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,3489005
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,50020400
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,50260025
+South Australia,4,Other industries,E -S,Use,Surface water,ML,226012
+South Australia,4,Total industry,Total industry,Use,Surface water,ML,55314144
+South Australia,4,Total,Total,Use,Surface water,ML,55314144
+South Australia,4,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,35056121
+South Australia,4,Mining,B,Use,Groundwater,ML,3794971
+South Australia,4,Manufacturing,C,Use,Groundwater,ML,1141560
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,1339000
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,1372238
+South Australia,4,Other industries,E -S,Use,Groundwater,ML,378274
+South Australia,4,Total industry,Total industry,Use,Groundwater,ML,41743163
+South Australia,4,Total,Total,Use,Groundwater,ML,41743163
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Sea water for desalination,ML,542300
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Sea water for desalination,ML,542300
+South Australia,4,Total industry,Total industry,Use,Sea water for desalination,ML,930817
+South Australia,4,Total,Total,Use,Sea water for desalination,ML,930817
+South Australia,4,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,38545125
+South Australia,4,Mining,B,Use,Self-extracted,ML,3966577
+South Australia,4,Manufacturing,C,Use,Self-extracted,ML,2697574
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,51901700
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,52174563
+South Australia,4,Other industries,E -S,Use,Self-extracted,ML,604285
+South Australia,4,Total industry,Total industry,Use,Self-extracted,ML,97988125
+South Australia,4,Total,Total,Use,Self-extracted,ML,97988125
+South Australia,4,"Agriculture, forestry and fishing (d)",A,Use,Distributed,ML,28784300
+South Australia,4,Electricity and gas supply,D,Use,Distributed,ML,163
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,3639800
+South Australia,4,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,112219
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,3667322
+South Australia,4,Total industry,Total industry,Use,Distributed,ML,37889026
+South Australia,4,Households (e),HH,Use,Distributed,ML,14051687
+South Australia,4,Total,Total,Use,Distributed,ML,51940713
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,12724700
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,12724700
+South Australia,4,Total industry,Total industry,Use,Wastewater (c),ML,12724700
+South Australia,4,Total,Total,Use,Wastewater (c),ML,12724700
+South Australia,4,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,2811700
+South Australia,4,Manufacturing,C,Use,Reuse,ML,422
+South Australia,4,"Water supply, sewerage and drainage services",D,Use,Reuse,ML,1276900
+South Australia,4,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,1276900
+South Australia,4,Total industry,Total industry,Use,Reuse,ML,5025358
+South Australia,4,Households (e),HH,Use,Reuse,ML,608
+South Australia,4,Total,Total,Use,Reuse,ML,5086158
+South Australia,4,Environment,Environment,Use,Return flows (b),ML,11056026
+South Australia,4,Total,Total,Use,Return flows (b),ML,11056026
+Western Australia,5,Environment,Environment,Supply,Self-extracted,ML,271257896
+Western Australia,5,Total,Total,Supply,Self-extracted,ML,271257896
+Western Australia,5,Mining,B,Supply,Distributed,ML,1234366
+Western Australia,5,Manufacturing,C,Supply,Distributed,ML,138055
+Western Australia,5,Electricity and gas supply,D,Supply,Distributed,ML,6934161
+Western Australia,5,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,71813600
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,71882942
+Western Australia,5,Total industry,Total industry,Supply,Distributed,ML,73118688
+Western Australia,5,Total,Total,Supply,Distributed,ML,73118688
+Western Australia,5,Total,Total,Supply,Wastewater (a),ML,17960900
+Western Australia,5,Electricity and gas supply,D,Supply,Reuse,ML,387051
+Western Australia,5,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,2263000
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,2266890
+Western Australia,5,Total industry,Total industry,Supply,Reuse,ML,4402502
+Western Australia,5,Total,Total,Supply,Reuse,ML,4402502
+Western Australia,5,Mining,B,Supply,Return flows (b),ML,53668788
+Western Australia,5,Manufacturing,C,Supply,Return flows (b),ML,1308905
+Western Australia,5,Electricity and gas supply,D,Supply,Return flows (b),ML,68663065
+Western Australia,5,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,17421100
+Western Australia,5,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,42844
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,86084594
+Western Australia,5,Total industry,Total industry,Supply,Return flows (b),ML,141062286
+Western Australia,5,Total,Total,Supply,Return flows (b),ML,141062286
+Western Australia,5,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,4818117
+Western Australia,5,"Waste collection, treatment and disposal services",D,Use,Surface water,ML,1165836
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,107781717
+Western Australia,5,Other industries,E -S,Use,Surface water,ML,138814
+Western Australia,5,Total industry,Total industry,Use,Surface water,ML,124031037
+Western Australia,5,Total,Total,Use,Surface water,ML,124031037
+Western Australia,5,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,17029811
+Western Australia,5,Mining,B,Use,Groundwater,ML,82500197
+Western Australia,5,Manufacturing,C,Use,Groundwater,ML,3224957
+Western Australia,5,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,21043000
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,22472186
+Western Australia,5,Other industries,E -S,Use,Groundwater,ML,1695083
+Western Australia,5,Total industry,Total industry,Use,Groundwater,ML,126922234
+Western Australia,5,Total,Total,Use,Groundwater,ML,126922234
+Western Australia,5,"Water supply, sewerage and drainage services",D,Use,Sea water for desalination,ML,11663600
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Sea water for desalination,ML,11663600
+Western Australia,5,Other industries,E -S,Use,Sea water for desalination,ML,726792
+Western Australia,5,Total industry,Total industry,Use,Sea water for desalination,ML,20304625
+Western Australia,5,Total,Total,Use,Sea water for desalination,ML,20304625
+Western Australia,5,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,21847928
+Western Australia,5,Mining,B,Use,Self-extracted,ML,98753572
+Western Australia,5,Manufacturing,C,Use,Self-extracted,ML,6897729
+Western Australia,5,Electricity and gas supply,D,Use,Self-extracted,ML,70091667
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,141917503
+Western Australia,5,Other industries,E -S,Use,Self-extracted,ML,1841164
+Western Australia,5,Total industry,Total industry,Use,Self-extracted,ML,271257896
+Western Australia,5,Total,Total,Use,Self-extracted,ML,271257896
+Western Australia,5,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,15806400
+Western Australia,5,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,3088184
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,15837282
+Western Australia,5,Other industries,E -S,Use,Distributed,ML,7329811
+Western Australia,5,Total industry,Total industry,Use,Distributed,ML,47973193
+Western Australia,5,Households (e),HH,Use,Distributed,ML,25145495
+Western Australia,5,Total,Total,Use,Distributed,ML,73118688
+Western Australia,5,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,17960900
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,17960900
+Western Australia,5,Total industry,Total industry,Use,Wastewater (c),ML,17960900
+Western Australia,5,Total,Total,Use,Wastewater (c),ML,17960900
+Western Australia,5,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,568000
+Western Australia,5,Manufacturing,C,Use,Reuse,ML,535900
+Western Australia,5,"Water supply, sewerage and drainage services",D,Use,Reuse,ML,356100
+Western Australia,5,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,356100
+Western Australia,5,Other industries,E -S,Use,Reuse,ML,2942502
+Western Australia,5,Total industry,Total industry,Use,Reuse,ML,4402502
+Western Australia,5,Total,Total,Use,Reuse,ML,4402502
+Western Australia,5,Environment,Environment,Use,Return flows (b),ML,141062286
+Western Australia,5,Total,Total,Use,Return flows (b),ML,141062286
+Tasmania,6,Environment,Environment,Supply,Self-extracted,ML,3395434016
+Tasmania,6,Total,Total,Supply,Self-extracted,ML,3395434016
+Tasmania,6,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,23626600
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,23626611
+Tasmania,6,Total industry,Total industry,Supply,Distributed,ML,23685110
+Tasmania,6,Total,Total,Supply,Distributed,ML,23685110
+Tasmania,6,Total,Total,Supply,Wastewater (a),ML,5754800
+Tasmania,6,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,444100
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,444101
+Tasmania,6,Total industry,Total industry,Supply,Reuse,ML,526295
+Tasmania,6,Total,Total,Supply,Reuse,ML,526295
+Tasmania,6,Mining,B,Supply,Return flows (b),ML,2018161
+Tasmania,6,Manufacturing,C,Supply,Return flows (b),ML,2841630
+Tasmania,6,Electricity and gas supply,D,Supply,Return flows (b),ML,3345870600
+Tasmania,6,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,5335100
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,3351205710
+Tasmania,6,Total industry,Total industry,Supply,Return flows (b),ML,3356065500
+Tasmania,6,Total,Total,Supply,Return flows (b),ML,3356065500
+Tasmania,6,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,17224021
+Tasmania,6,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,23612100
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,3369482884
+Tasmania,6,Other industries,E -S,Use,Surface water,ML,229741
+Tasmania,6,Total industry,Total industry,Use,Surface water,ML,3392049248
+Tasmania,6,Total,Total,Use,Surface water,ML,3392049248
+Tasmania,6,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,1879647
+Tasmania,6,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,145
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,1473045
+Tasmania,6,Other industries,E -S,Use,Groundwater,ML,113549
+Tasmania,6,Total industry,Total industry,Use,Groundwater,ML,3384767
+Tasmania,6,Total,Total,Use,Groundwater,ML,3384767
+Tasmania,6,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,19103668
+Tasmania,6,Mining,B,Use,Self-extracted,ML,3508405
+Tasmania,6,Manufacturing,C,Use,Self-extracted,ML,3093452
+Tasmania,6,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,23626600
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,3369497614
+Tasmania,6,Other industries,E -S,Use,Self-extracted,ML,230877
+Tasmania,6,Total industry,Total industry,Use,Self-extracted,ML,3395434016
+Tasmania,6,Total,Total,Use,Self-extracted,ML,3395434016
+Tasmania,6,"Agriculture, forestry and fishing (d)",A,Use,Distributed,ML,14294900
+Tasmania,6,Mining,B,Use,Distributed,ML,84
+Tasmania,6,Manufacturing,C,Use,Distributed,ML,1198000
+Tasmania,6,"Water supply, sewerage and drainage services",D,Use,Distributed,ML,3620200
+Tasmania,6,"Waste collection, treatment and disposal services",D,Use,Distributed,ML,79502
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,3620995
+Tasmania,6,Other industries,E -S,Use,Distributed,ML,1104988
+Tasmania,6,Total industry,Total industry,Use,Distributed,ML,20227283
+Tasmania,6,Households (e),HH,Use,Distributed,ML,3457827
+Tasmania,6,Total,Total,Use,Distributed,ML,23685110
+Tasmania,6,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,5754800
+Tasmania,6,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,5754800
+Tasmania,6,Total industry,Total industry,Use,Wastewater (c),ML,5754800
+Tasmania,6,Total,Total,Use,Wastewater (c),ML,5754800
+Tasmania,6,"Agriculture, forestry and fishing (d)",A,Use,Reuse,ML,381700
+Tasmania,6,Other industries,E -S,Use,Reuse,ML,144595
+Tasmania,6,Total industry,Total industry,Use,Reuse,ML,526295
+Tasmania,6,Total,Total,Use,Reuse,ML,526295
+Tasmania,6,Environment,Environment,Use,Return flows (b),ML,3356065500
+Tasmania,6,Total,Total,Use,Return flows (b),ML,3356065500
+Northern Territory,7,Environment,Environment,Supply,Self-extracted,ML,15971101
+Northern Territory,7,Total,Total,Supply,Self-extracted,ML,15971101
+Northern Territory,7,Mining,B,Supply,Distributed,ML,4325687
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,5554700
+Northern Territory,7,Total industry,Total industry,Supply,Distributed,ML,5648662
+Northern Territory,7,Total,Total,Supply,Distributed,ML,5648662
+Northern Territory,7,Total,Total,Supply,Wastewater (a),ML,2159700
+Northern Territory,7,Mining,B,Supply,Reuse,ML,6041157
+Northern Territory,7,Electricity and gas supply,D,Supply,Reuse,ML,282978
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,749
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,7773311
+Northern Territory,7,Total industry,Total industry,Supply,Reuse,ML,138145
+Northern Territory,7,Total,Total,Supply,Reuse,ML,138145
+Northern Territory,7,Mining,B,Supply,Return flows (b),ML,1940359
+Northern Territory,7,Electricity and gas supply,D,Supply,Return flows (b),ML,3844415
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,1941900
+Northern Territory,7,"Waste collection, treatment and disposal services",D,Supply,Return flows (b),ML,736
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,1980418
+Northern Territory,7,Total industry,Total industry,Supply,Return flows (b),ML,3920777
+Northern Territory,7,Total,Total,Supply,Return flows (b),ML,3920777
+Northern Territory,7,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,763219
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,4139447
+Northern Territory,7,Other industries,E -S,Use,Surface water,ML,7012762
+Northern Territory,7,Total industry,Total industry,Use,Surface water,ML,5462524
+Northern Territory,7,Total,Total,Use,Surface water,ML,5462524
+Northern Territory,7,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,4745890
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Use,Groundwater,ML,1455200
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Use,Groundwater,ML,2501312
+Northern Territory,7,Other industries,E -S,Use,Groundwater,ML,377320
+Northern Territory,7,Total industry,Total industry,Use,Groundwater,ML,10508415
+Northern Territory,7,Total,Total,Use,Groundwater,ML,10508415
+Northern Territory,7,Other industries,E -S,Use,Sea water for desalination,ML,16279
+Northern Territory,7,Total industry,Total industry,Use,Sea water for desalination,ML,16279
+Northern Territory,7,Total,Total,Use,Sea water for desalination,ML,16279
+Northern Territory,7,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,5509109
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,5554700
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,6640760
+Northern Territory,7,Other industries,E -S,Use,Self-extracted,ML,447611
+Northern Territory,7,Total industry,Total industry,Use,Self-extracted,ML,15971101
+Northern Territory,7,Total,Total,Use,Self-extracted,ML,15971101
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,704061
+Northern Territory,7,Total industry,Total industry,Use,Distributed,ML,2991924
+Northern Territory,7,Households (e),HH,Use,Distributed,ML,2656739
+Northern Territory,7,Total,Total,Use,Distributed,ML,5648662
+Northern Territory,7,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,2159700
+Northern Territory,7,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,2159700
+Northern Territory,7,Total industry,Total industry,Use,Wastewater (c),ML,2159700
+Northern Territory,7,Total,Total,Use,Wastewater (c),ML,2159700
+Northern Territory,7,Other industries,E -S,Use,Reuse,ML,138145
+Northern Territory,7,Total industry,Total industry,Use,Reuse,ML,138145
+Northern Territory,7,Total,Total,Use,Reuse,ML,138145
+Northern Territory,7,Environment,Environment,Use,Return flows (b),ML,3920777
+Northern Territory,7,Total,Total,Use,Return flows (b),ML,3920777
+Australian Capital Territory,8,Environment,Environment,Supply,Self-extracted,ML,4275708
+Australian Capital Territory,8,Total,Total,Supply,Self-extracted,ML,4275708
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Supply,Distributed,ML,4176000
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Supply,Distributed,ML,4176000
+Australian Capital Territory,8,Total industry,Total industry,Supply,Distributed,ML,4176000
+Australian Capital Territory,8,Total,Total,Supply,Distributed,ML,4176000
+Australian Capital Territory,8,Total,Total,Supply,Wastewater (a),ML,4441100
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Supply,Reuse,ML,442400
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Supply,Reuse,ML,442400
+Australian Capital Territory,8,Total industry,Total industry,Supply,Reuse,ML,442400
+Australian Capital Territory,8,Total,Total,Supply,Reuse,ML,442400
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Supply,Return flows (b),ML,3946400
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Supply,Return flows (b),ML,3946400
+Australian Capital Territory,8,Total industry,Total industry,Supply,Return flows (b),ML,3946855
+Australian Capital Territory,8,Total,Total,Supply,Return flows (b),ML,3946855
+Australian Capital Territory,8,"Agriculture, forestry and fishing (d)",A,Use,Surface water,ML,2463538
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Use,Surface water,ML,4176000
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Use,Surface water,ML,4176000
+Australian Capital Territory,8,Other industries,E -S,Use,Surface water,ML,3628065
+Australian Capital Territory,8,Total industry,Total industry,Use,Surface water,ML,4259064
+Australian Capital Territory,8,Total,Total,Use,Surface water,ML,4259064
+Australian Capital Territory,8,"Agriculture, forestry and fishing (d)",A,Use,Groundwater,ML,112476
+Australian Capital Territory,8,Other industries,E -S,Use,Groundwater,ML,1278051
+Australian Capital Territory,8,Total industry,Total industry,Use,Groundwater,ML,1664402
+Australian Capital Territory,8,Total,Total,Use,Groundwater,ML,1664402
+Australian Capital Territory,8,"Agriculture, forestry and fishing (d)",A,Use,Self-extracted,ML,2576014
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Use,Self-extracted,ML,4176000
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Use,Self-extracted,ML,4176000
+Australian Capital Territory,8,Other industries,E -S,Use,Self-extracted,ML,4906116
+Australian Capital Territory,8,Total industry,Total industry,Use,Self-extracted,ML,4275708
+Australian Capital Territory,8,Total,Total,Use,Self-extracted,ML,4275708
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Use,Distributed,ML,338758
+Australian Capital Territory,8,Total industry,Total industry,Use,Distributed,ML,1137000
+Australian Capital Territory,8,Households (e),HH,Use,Distributed,ML,3039000
+Australian Capital Territory,8,Total,Total,Use,Distributed,ML,4176000
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Use,Wastewater (c),ML,4441100
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Use,Wastewater (c),ML,4441100
+Australian Capital Territory,8,Total industry,Total industry,Use,Wastewater (c),ML,4441100
+Australian Capital Territory,8,Total,Total,Use,Wastewater (c),ML,4441100
+Australian Capital Territory,8,"Water supply, sewerage and drainage services",D,Use,Reuse,ML,440600
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",D,Use,Reuse,ML,440600
+Australian Capital Territory,8,Other industries,E -S,Use,Reuse,ML,18
+Australian Capital Territory,8,Total industry,Total industry,Use,Reuse,ML,442400
+Australian Capital Territory,8,Total,Total,Use,Reuse,ML,442400
+Australian Capital Territory,8,Environment,Environment,Use,Return flows (b),ML,3946855
+Australian Capital Territory,8,Total,Total,Use,Return flows (b),ML,3946855
