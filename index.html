@@ -18,21 +18,11 @@
     "hconcat": [
       {
         "title": "Choropleth Map",
-        "data": {"url": "data/choropleth_data.json"},
-        "mark": "geoshape",
-        "encoding": {
-          "color": {"field": "value", "type": "quantitative"}
-        }
+        "spec": {"$ref": "js/choropleth_map.vg.json"}
       },
       {
         "title": "Bar Chart",
-        "data": {"url": "data/barchart_data.csv"},
-        "mark": "bar",
-        "encoding": {
-          "x": {"field": "category", "type": "nominal"},
-          "y": {"field": "value", "type": "quantitative"},
-          "color": {"field": "category", "type": "nominal"}
-        }
+        "spec": {"$ref": "js/barchart.vg.json"}
       }
     ]
   };
