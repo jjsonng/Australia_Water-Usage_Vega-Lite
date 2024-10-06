@@ -14,8 +14,8 @@ body {
   height: 100%;
 }
 
-#choropleth_map {
-  width: 950px; /* Set the new width */
-  height: 600px; /* Set the new height */
+#visualization {
+  width: 100%; /* Set the new width */
+  height: 100%; /* Set the new height */
   position: relative; /* Ensure the map respects the top, bottom, left, and right properties */
 }
