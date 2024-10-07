@@ -4,8 +4,8 @@
     "url": "https://raw.githubusercontent.com/jjsonng/Australia_Water-Usage_Vega-Lite/main/data/data2.csv"
   },
   "title": "Distributed Water Use by Selected Industries and Households, Australia",
-  "width": 700,
-  "height": 500,
+  "width": 500,
+  "height": 300,
   "params": [
     {
       "name": "Industry_selection",
