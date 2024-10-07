@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 950,
-  "height": 600,
-  "title": "Physical Water Usage by State/Territory in Australia (2021-22)",
+  "width": 500,
+  "height": 300,
+  "title": "Water Use per Capita by State/Territory in Australia (2021-22)",
   "projection": {
     "type": "equirectangular",
     "center": [133, -28],
-    "scale": 900
+    "scale": 480
   },
   "layer": [
     {
@@ -38,17 +38,16 @@
         "color": {
           "field": "2021-22",
           "type": "quantitative",
-          "title": "Water Use per Capita (ML)",
+          "title": "Amount (ML)",
           "scale": {
             "type": "threshold",
             "domain": [500, 1000, 1500, 3000, 5000],
-            "range": ["#f2e7c7", "#e6b67d", "#cc7640", "#bf4030", "#a63630", "#6e1414"]
+            "scheme": "yellowgreenblue"
           },
           "legend": {
-            "title": "Water Use per Capita (ML)",
-            "orient": "bottom-left",
+            "orient": "right",
             "direction": "vertical",
-            "offset": 18,
+            "offset": 1,
             "labelExpr": "datum.value < 500 ? '0' : datum.value == 500 ? '500' : datum.value == 1000 ? '1000' : datum.value == 1500 ? '1500' : datum.value == 3000 ? '3000' : datum.value == 5000 ? '5000' : datum.value > 5000 ? 'Above 5000' : ''"
           }
         },
