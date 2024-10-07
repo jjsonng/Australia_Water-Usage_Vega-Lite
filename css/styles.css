@@ -30,7 +30,8 @@
     margin-bottom: 70px;
   }
   .small-font{
-      font-size: 18px;
+      font-size: 12px;
+      color: grey;
   }
   .text{
     font-weight: bold;
