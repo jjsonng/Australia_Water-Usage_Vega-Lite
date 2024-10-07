@@ -45,7 +45,7 @@
             "scheme": "yellowgreenblue"
           },
           "legend": {
-            "orient": "right",
+            "orient": "left",
             "direction": "vertical",
             "offset": 1,
             "labelExpr": "datum.value < 500 ? '0' : datum.value == 500 ? '500' : datum.value == 1000 ? '1000' : datum.value == 1500 ? '1500' : datum.value == 3000 ? '3000' : datum.value == 5000 ? '5000' : datum.value > 5000 ? 'Above 5000' : ''"
