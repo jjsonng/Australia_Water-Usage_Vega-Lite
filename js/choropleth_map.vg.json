@@ -76,12 +76,4 @@
       }
     }
   ],
-  "config": {
-    "legend": {
-      "padding": 10,
-      "cornerRadius": 5,
-      "fillColor": "#ffffff",
-      "strokeColor": "#ccc"
-    }
-  }
 }
