@@ -32,6 +32,7 @@
   .small-font{
       font-size: 12px;
       color: grey;
+      text-decoration: none;
   }
   .text{
     font-weight: bold;
