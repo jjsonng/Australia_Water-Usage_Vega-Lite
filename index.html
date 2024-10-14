@@ -185,11 +185,11 @@
   var specVis3 = "js/water_use_farms.vg.json";
   var specVis4 = "js/water_farm_total_source.vg.json";
   var specVis5 = "js/water_farm_total_use.vg.json";
+  var specVis10 = "js/choropleth_map.vg.json";
   var specVis6 = "js/water_supply.vg.json";
   var specVis7 = "js/water_use.vg.json";
   var specVis8 = "js/world_water_withdrawal.vg.json";
   var specVis9 = "js/world_water_use_services.vg.json";
-  var specVis10 = "js/choropleth_map.vg.json";
   
 
 
@@ -213,6 +213,10 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
+  vegaEmbed('#vis10', specVis10, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
   vegaEmbed('#vis6', specVis6, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
@@ -229,9 +233,6 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-  vegaEmbed('#vis10', specVis10, {"actions": false}).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
 
 
 </script>
